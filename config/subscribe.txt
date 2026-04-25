@@ -4,7 +4,8 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
 
-
+https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt
+https://cnb.cool/fgvss/zbds/-/git/raw/main/zbtvupan.txt
 
 
 [WHITELIST]
