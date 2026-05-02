@@ -2,6 +2,9 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+# https://ghfast.top/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+# https://sub.ottiptv.cc/bililive.m3u
+# https://sub.ottiptv.cc/yylunbo.m3u
 https://ghfast.top/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
 https://pastebin.com/raw/V0BhYHF4
 https://tmxk.pp.ua/smart-cn.m3u
@@ -18,15 +21,12 @@ http://rihou.cc:567/gggg.nzk
 http://tv.850930.xyz/kdsb.txt
 https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://live.zbds.top/tv/iptv4.txt
-https://sub.ottiptv.cc/huyayqk.m3u
 https://sub.ottiptv.cc/douyuyqk.m3u
 https://gh-proxy.org/https://raw.githubusercontent.com/x22c/okk/refs/heads/master/output/user_result.txt
 https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.m3u
 https://live.zbds.org/tv/iptv4.txt
 
-# https://ghfast.top/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-# https://sub.ottiptv.cc/bililive.m3u
-# https://sub.ottiptv.cc/yylunbo.m3u
+# https://sub.ottiptv.cc/huyayqk.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
